@@ -2,10 +2,10 @@
 This is the git repository for the slimetime a project by unstable hermits 
 
 # Editors
-josua bevell\n
-arron blanchard\n
-thomas martinez\n
-Earl (Tre) Blizzard\n
+Josua Bevell
+Aaron Blanchard
+Thomas Martinez
+Earl (Tre) Blizzard
 
 # Rules
 1.
