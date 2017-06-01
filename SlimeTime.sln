@@ -1,14 +1,18 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{F83147EE-6D7D-E503-1E04-012616F04F57}") = "SlimeTime", "Assembly-CSharp.csproj", "{954FC505-8627-3DB6-2E6D-F21AB9A9BBB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{954FC505-8627-3DB6-2E6D-F21AB9A9BBB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954FC505-8627-3DB6-2E6D-F21AB9A9BBB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954FC505-8627-3DB6-2E6D-F21AB9A9BBB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954FC505-8627-3DB6-2E6D-F21AB9A9BBB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
